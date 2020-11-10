@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+body {
+	
+}
+
+.primary-background {
+	background-color: #3f51b5 !important;
+}
+
+.benner-background {
+	/* clip-path: polygon(50% 0%, 100% 0, 100% 91%, 61% 100%, 30% 91%, 0 100%, 0 0); */
+	clip-path: polygon(52% 1%, 100% 1%, 100% 93%, 63% 100%, 30% 93%, 0 100%, 0 1%);
+}
